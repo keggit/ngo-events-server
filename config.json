@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb://localhost/connectimongo",
+    "secret": "EXTREMELY SECURE"
+}
